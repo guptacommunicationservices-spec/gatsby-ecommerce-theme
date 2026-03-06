@@ -1,0 +1,1 @@
+console.log("Immortal Solution Website Loaded Successfully");
